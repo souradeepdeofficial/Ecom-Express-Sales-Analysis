@@ -17,10 +17,10 @@ The dataset consists of three CSV files: Customers, Orders, and Products, along 
 
 Key Insights
 1. Revenue and Sales Performance
-A. Total Revenue: ₹1.25B
-B. Total Sales Value: ₹1.77B
-C. Total Orders: 15.69K
-D. Average Order Value (AOV): ₹112.85K
+1. Total Revenue: ₹1.25B
+2. Total Sales Value: ₹1.77B
+3. Total Orders: 15.69K
+4. Average Order Value (AOV): ₹112.85K
 2. Cancellations & Lost Revenue
 A. Cancellation Rate: 29.72%
 B. Lost Revenue: ₹525.42M
