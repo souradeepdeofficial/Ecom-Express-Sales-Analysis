@@ -15,27 +15,14 @@ Project Overview: The goal was to analyze sales activity for 2024 and convert ra
 
 The dataset consists of three CSV files: Customers, Orders, and Products, along with a Power BI dashboard that brings the analysis together.
 
-Key Insights
-1. Revenue and Sales Performance
-1. Total Revenue: ₹1.25B
-2. Total Sales Value: ₹1.77B
-3. Total Orders: 15.69K
-4. Average Order Value (AOV): ₹112.85K
-2. Cancellations & Lost Revenue
-A. Cancellation Rate: 29.72%
-B. Lost Revenue: ₹525.42M
-3. Top States by Revenue (These regions show the strongest buyer activity and can be targeted for marketing and seasonal campaigns.)
-A. Maharashtra
-B. Gujarat
-C. Rajasthan
-4. Best-Performing Categories (These categories drive most of the business and have consistent demand.)
-A. Laptops
-B. Mobiles
-C. Headphones
+Key Insights:
+1. Revenue and Sales Performance: Total Revenue: ₹1.25B, Total Sales Value: ₹1.77B, Total Orders: 15.69K, Average Order Value (AOV): ₹112.85K
+2. Cancellations & Lost Revenue: Cancellation Rate: 29.72%, Lost Revenue: ₹525.42M
+3. Top States by Revenue: Maharashtra, Gujarat, Rajasthan. These regions show the strongest buyer activity and can be targeted for marketing and seasonal campaigns.
+4. Best-Performing Categories: Laptops, Mobiles, Headphones. These categories drive most of the business and have consistent demand.
 5. Revenue Trend Over Time: The revenue chart shows steady performance across 2024 with noticeable spikes during key months, likely linked to promotions or seasonal events.
 
-Data Model
-The analysis is built on three key tables:
+The data model of this analysis is built on three key tables:
 1. Customers include customer profile details like city, state, phone brand, and operating system.
 2. Orders include purchase date, product, customer, quantity, and delivery status.
 3. Products include product name, category, price, rating, and number of ratings.
@@ -68,9 +55,9 @@ What This Project Demonstrates
 1. Ability to clean, model, and analyze data
 2. Business-focused storytelling using dashboards
 3. Understanding of sales metrics and customer trends
--> Ability to identify financial leaks (cancellations, revenue loss)
--> Skills in Power BI, DAX, and visualization best practices
--> This project is a strong addition to analyst portfolios and showcases both technical and business skills.
+4. Ability to identify financial leaks (cancellations, revenue loss)
+5. Skills in Power BI, DAX, and visualization best practices
+6. This project is a strong addition to analyst portfolios and showcases both technical and business skills.
 
 Connect With Me
 If you're a recruiter, hiring manager, or someone looking for analytics help:
