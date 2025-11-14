@@ -17,7 +17,7 @@ The dataset consists of three CSV files: Customers, Orders, and Products, along 
 
 Key Insights:
 1. Revenue and Sales Performance: Total Revenue: ₹1.25B, Total Sales Value: ₹1.77B, Total Orders: 15.69K, Average Order Value (AOV): ₹112.85K
-2. Cancellations & Lost Revenue: Cancellation Rate: 29.72%, Lost Revenue: ₹525.42M
+2. Cancellations & Lost Revenue: Cancellation Rate: 29.72%, Lost Revenue: ₹525.42M. This is a major area for improvement and suggests issues with customer fulfillment, delivery experience, or product expectations.
 3. Top States by Revenue: Maharashtra, Gujarat, Rajasthan. These regions show the strongest buyer activity and can be targeted for marketing and seasonal campaigns.
 4. Best-Performing Categories: Laptops, Mobiles, Headphones. These categories drive most of the business and have consistent demand.
 5. Revenue Trend Over Time: The revenue chart shows steady performance across 2024 with noticeable spikes during key months, likely linked to promotions or seasonal events.
